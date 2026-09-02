@@ -1,0 +1,6 @@
+interface:
+  display_name: "通用 Web 探索测试"
+  short_description: "探索任意页面，生成配置项级 HTML 测试报告与浏览器证据"
+  default_prompt: "使用 $webapp-testing 对当前页面执行通用探索测试，动态覆盖配置项、保存截图，并生成 HTML、Markdown 和 JSON 报告。"
+policy:
+  allow_implicit_invocation: true
