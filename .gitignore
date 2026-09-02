@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# 本地技能安装副本（仓库内容平铺于根目录，.agents 仅用于本机实际加载）
+.agents/
